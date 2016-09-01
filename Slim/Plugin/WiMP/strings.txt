@@ -1,12 +1,10 @@
 PLUGIN_WIMP_MODULE_NAME
 	EN	TIDAL
 	NL	TIDAL
-	NO	TIDAL
 	
 PLUGIN_WIMP_MODULE_DESC
 	EN	TIDAL - High Fidelity Music Streaming
 	NL	TIDAL - High Fidelity Music Streaming
-	NO	TIDAL - High Fidelity Music Streaming
 
 PLUGIN_WIMP_DIRECT_GETTING_TRACK_INFO
 	CS	Získávání informací o stopě...

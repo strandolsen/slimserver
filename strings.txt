@@ -7243,18 +7243,21 @@ SETUP_CHECKVERSION_DAILY
 	EN	Daily
 	FR	Tous les jours
 	NL	Dagelijks
+	NO	Daglig
 
 SETUP_CHECKVERSION_WEEKLY
 	DE	Wöchentlich
 	EN	Weekly
 	FR	Hebdomadaire
 	NL	Wekelijks
+	NO	Ukentlig
 
 SETUP_CHECKVERSION_MONTHLY
 	DE	Monatlich
 	EN	Monthly
 	FR	Mensuel
 	NL	Maandelijks
+	NO	Månedlig
 	
 SETUP_AUTO_DOWNLOAD
 	CS	Automatické stahování
@@ -7319,6 +7322,7 @@ SETUP_AUTO_DOWNLOAD_1
 SETUP_CHECK_NOW
 	DE	Jetzt nach Update suchen
 	EN	Check for updates now
+	NO	Se etter oppdateringer nå
 	
 SETUP_SCREENSAVER
 	CS	Spořič obrazovky při přehrávání
@@ -19039,7 +19043,6 @@ SETUP_PRECACHEARTWORK_ALL
 	FR	Mettre la pochette de l'album, les photos et les vidéos en pré-cache
 	IT	Inserire le copertine di album, foto e video nella pre-cache
 	NL	Afbeeldingen van albums, foto's en video's vooraf in cache opslaan
-# I've corrected the previous Norwegian entry because it was misleading.
 	NO	Forhåndsbufre album-, foto- og videoomslag
 	PL	Buforuj wstępnie materiały graficzne do albumów, zdjęć i filmów wideo
 	RU	Pre-cache album, photo and video artwork
